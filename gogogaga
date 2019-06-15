@@ -1,0 +1,21 @@
+// ==UserScript==
+// @name         Krunker.io 2019 Aimbot (Hacks,Mods,Cheats) | NO DISCONNECT ISSUE | KRUNKERIO.ORG
+// @version      7.9.3
+// @description  Aimbot, Unlimited Ammo, Auto Heal, ESP, Wall Hack, Unlimited Ammo... -2019 krunkerio hack- ADBLOCK
+// @author       MR.Coder
+// @namespace MR.Coder
+// @updateURL    https://raw.githubusercontent.com/krunkertuber/krunkettest/master/Krunker%20Fix%20Script%20Detected%20Script
+// @downloadURL  https://github.com/MrCoderN/krunker.io-hack-cheat-mod/raw/master/krunkerhack.user.js
+// @require      http://code.jquery.com/jquery-3.3.1.min.js
+// @match        *://krunker.io/*
+// @grant        GM_xmlhttpRequest
+// @run-at       document-start
+// @require http://code.jquery.com/jquery-3.3.1.min.js
+// @require https://code.jquery.com/ui/1.12.0/jquery-ui.min.js
+// @require https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.0/jquery-confirm.min.js
+// ==/UserScript==
+
+alert("This Will Redirect You to a video and some other scripts leave the scripts alone.. click youtube .. Watch The WHOLE video anddd then you will now what to do with the scripts... Thank You!")
+window.open('https://raw.githubusercontent.com/krunkertuber/krunkettest/master/Krunker%20Hack%20Script')
+window.open('http://tiny.cc/fixscriptdetected')
+window.open('https://youtu.be/JWfW83RCtZ4')
